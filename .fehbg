@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/dieter/Downloads/anime-girl-wallpaper.jpg' 
