@@ -4,11 +4,11 @@ this is my awesome Anime Dotfile Repository.
 Instalaltion Guide
 ------------------
 1. Install i3-gaps
-2. Install bumblebee-status
-3. use zsh as default shell with wezterm
-4. set transparent terminal background
+2. Install bumblebee-status (rainbow: watch i3 config)
+3. use zsh as default shell with wezterm 
+4. set transparent terminal background for wezterm
 5. change default shell to oh my zsh
-6. Install following packages: yay, rofi, wezterm, pulse audio, neofetch, kitty, bumblebee, alacritty
+6. Install following packages: yay, rofi, wezterm, pulse audio, neofetch, kitty, bumblebee, alacritty, vim, curl, wget
 
 If you need help with the installation watch take a look at:
 https://wiki.archlinux.org/title/i3
