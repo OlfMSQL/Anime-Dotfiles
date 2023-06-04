@@ -8,7 +8,7 @@ Instalaltion Guide
 3. use zsh as default shell with wezterm 
 4. set transparent terminal background for wezterm
 5. change default shell to oh my zsh
-6. Install following packages: yay, rofi, wezterm, pulse audio, neofetch, kitty, bumblebee, alacritty, vim, curl, wget
+6. Install following packages: yay, rofi, wezterm, pulse audio, neofetch, kitty, bumblebee, alacritty, vim, curl, wget, sddm (with Sugar-Candy theme)
 7. some of these files are based on the dotfiles from @m4xfps | @wubbl0rz
 
 If you need help with the installation watch take a look at:
